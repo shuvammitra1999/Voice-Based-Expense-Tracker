@@ -1,0 +1,12 @@
+#root,
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(./assets/money_dollar_dignity_amount_denominations_one_background_31463_1920x1080.jpeg);
+  background-size: cover;
+}
